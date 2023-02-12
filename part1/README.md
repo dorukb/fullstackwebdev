@@ -1,0 +1,1 @@
+This directory contains the exercises about React & Front end development, part1 as described in: https://fullstackopen.com/en/part1/introduction_to_react
